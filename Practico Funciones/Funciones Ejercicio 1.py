@@ -1,6 +1,6 @@
 #Definir una función que tome como argumento dos números y devuelva el mayor de ellos.
 
-def max(num1,num2):
+def max(n1,n2):
     if n1 > n2:
         print(n1, "es mayor que ", n2)
     else:
